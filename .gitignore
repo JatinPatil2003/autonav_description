@@ -1,0 +1,6 @@
+.vscode
+/src
+build
+install
+log
+test
