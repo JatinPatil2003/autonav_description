@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ec046549.css",
-    "main.js": "/static/js/main.4228a558.js",
-    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
-    "static/media/fusion.png": "/static/media/fusion.7634347e43a489ecd20f.png",
-    "static/media/real.png": "/static/media/real.dd5f23a00527eefed6b6.png",
-    "static/media/robot.png": "/static/media/robot.64873fda4cfb3ce53eff.png",
-    "index.html": "/index.html",
-    "main.ec046549.css.map": "/static/css/main.ec046549.css.map",
-    "main.4228a558.js.map": "/static/js/main.4228a558.js.map",
-    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+    "main.css": "/AutoNav/static/css/main.ec046549.css",
+    "main.js": "/AutoNav/static/js/main.83765c41.js",
+    "static/js/453.8ab44547.chunk.js": "/AutoNav/static/js/453.8ab44547.chunk.js",
+    "static/media/fusion.png": "/AutoNav/static/media/fusion.7634347e43a489ecd20f.png",
+    "static/media/real.png": "/AutoNav/static/media/real.dd5f23a00527eefed6b6.png",
+    "static/media/robot.png": "/AutoNav/static/media/robot.64873fda4cfb3ce53eff.png",
+    "index.html": "/AutoNav/index.html",
+    "main.ec046549.css.map": "/AutoNav/static/css/main.ec046549.css.map",
+    "main.83765c41.js.map": "/AutoNav/static/js/main.83765c41.js.map",
+    "453.8ab44547.chunk.js.map": "/AutoNav/static/js/453.8ab44547.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ec046549.css",
-    "static/js/main.4228a558.js"
+    "static/js/main.83765c41.js"
   ]
 }
